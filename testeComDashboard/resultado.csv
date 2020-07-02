@@ -1,0 +1,41 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1593134137809,382,Acessar Google,200,OK,Thread Group 1-5,text,true,,14320,116,8,8,https://www.google.com/,332,0,186
+1593134137547,649,Acessar Google,200,OK,Thread Group 1-2,text,true,,14403,116,8,8,https://www.google.com/,595,0,451
+1593134137707,484,Acessar Google,200,OK,Thread Group 1-4,text,true,,14332,116,8,8,https://www.google.com/,435,0,290
+1593134137547,652,Acessar Google,200,OK,Thread Group 1-1,text,true,,14324,116,8,8,https://www.google.com/,596,0,454
+1593134137611,590,Acessar Google,200,OK,Thread Group 1-3,text,true,,14377,116,8,8,https://www.google.com/,530,0,384
+1593134137905,290,Acessar Google,200,OK,Thread Group 1-6,text,true,,14291,116,8,8,https://www.google.com/,250,0,132
+1593134138008,269,Acessar Google,200,OK,Thread Group 1-7,text,true,,14362,116,9,9,https://www.google.com/,256,0,151
+1593134138132,303,Acessar Google,200,OK,Thread Group 1-8,text,true,,14355,116,10,10,https://www.google.com/,297,0,188
+1593134138217,252,Acessar Google,200,OK,Thread Group 1-9,text,true,,14337,116,10,10,https://www.google.com/,246,0,128
+1593134138311,221,Acessar Google,200,OK,Thread Group 1-10,text,true,,14343,116,10,10,https://www.google.com/,215,0,113
+1593134138209,402,Acessar Facebook,200,OK,Thread Group 1-2,text,true,,160739,118,10,10,https://www.facebook.com/,286,0,78
+1593134138211,894,Acessar Facebook,200,OK,Thread Group 1-3,text,true,,206921,118,10,10,https://www.facebook.com/,352,0,94
+1593134138214,981,Acessar Facebook,200,OK,Thread Group 1-1,text,true,,207113,118,10,10,https://www.facebook.com/,382,0,82
+1593134138212,1090,Acessar Facebook,200,OK,Thread Group 1-4,text,true,,207180,118,10,10,https://www.facebook.com/,413,0,86
+1593134138207,1133,Acessar Facebook,200,OK,Thread Group 1-5,text,true,,206912,118,10,10,https://www.facebook.com/,423,0,86
+1593134138279,1075,Acessar Facebook,200,OK,Thread Group 1-7,text,true,,207144,118,10,10,https://www.facebook.com/,361,0,56
+1593134138212,1143,Acessar Facebook,200,OK,Thread Group 1-6,text,true,,207141,118,10,10,https://www.facebook.com/,452,0,95
+1593134138471,1082,Acessar Facebook,200,OK,Thread Group 1-9,text,true,,207178,118,10,10,https://www.facebook.com/,376,0,48
+1593134138436,1122,Acessar Facebook,200,OK,Thread Group 1-8,text,true,,207122,118,10,10,https://www.facebook.com/,426,0,53
+1593134138533,1089,Acessar Facebook,200,OK,Thread Group 1-10,text,true,,207097,118,10,10,https://www.facebook.com/,548,0,127
+1593134139341,1177,Acessar Amazon,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: www.amazon.com.br0,Thread Group 1-5,text,false,,2295,0,10,10,https://www.amazon.com.br0/,0,0,1177
+1593134139198,1321,Acessar Amazon,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: www.amazon.com.br0,Thread Group 1-1,text,false,,2295,0,10,10,https://www.amazon.com.br0/,0,0,1320
+1593134139355,1163,Acessar Amazon,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: www.amazon.com.br0,Thread Group 1-7,text,false,,2295,0,10,10,https://www.amazon.com.br0/,0,0,1163
+1593134139108,1411,Acessar Amazon,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: www.amazon.com.br0,Thread Group 1-3,text,false,,2295,0,10,10,https://www.amazon.com.br0/,0,0,1411
+1593134139560,958,Acessar Amazon,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: www.amazon.com.br0,Thread Group 1-8,text,false,,2295,0,10,10,https://www.amazon.com.br0/,0,0,958
+1593134139303,1215,Acessar Amazon,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: www.amazon.com.br0,Thread Group 1-4,text,false,,2295,0,10,10,https://www.amazon.com.br0/,0,0,1215
+1593134139554,963,Acessar Amazon,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: www.amazon.com.br0,Thread Group 1-9,text,false,,2295,0,10,10,https://www.amazon.com.br0/,0,0,963
+1593134138612,1905,Acessar Amazon,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: www.amazon.com.br0: Nome ou serviço desconhecido,Thread Group 1-2,text,false,,2503,0,10,10,https://www.amazon.com.br0/,0,0,1905
+1593134139357,1160,Acessar Amazon,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: www.amazon.com.br0,Thread Group 1-6,text,false,,2295,0,10,10,https://www.amazon.com.br0/,0,0,1160
+1593134139626,891,Acessar Amazon,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: www.amazon.com.br0,Thread Group 1-10,text,false,,2295,0,10,10,https://www.amazon.com.br0/,0,0,891
+1593134140524,1064,Acessar Youtube,200,OK,Thread Group 1-8,text,true,,543319,117,10,10,https://www.youtube.com/,306,0,155
+1593134140525,1637,Acessar Youtube,200,OK,Thread Group 1-9,text,true,,542939,117,9,9,https://www.youtube.com/,300,0,155
+1593134140525,2057,Acessar Youtube,200,OK,Thread Group 1-2,text,true,,371087,117,8,8,https://www.youtube.com/,259,0,145
+1593134140524,2095,Acessar Youtube,200,OK,Thread Group 1-4,text,true,,373701,117,7,7,https://www.youtube.com/,254,0,145
+1593134140528,2194,Acessar Youtube,200,OK,Thread Group 1-10,text,true,,542665,117,6,6,https://www.youtube.com/,320,0,162
+1593134140526,2309,Acessar Youtube,200,OK,Thread Group 1-6,text,true,,367006,117,5,5,https://www.youtube.com/,237,0,132
+1593134140524,2419,Acessar Youtube,200,OK,Thread Group 1-5,text,true,,550244,117,4,4,https://www.youtube.com/,291,0,133
+1593134140522,2447,Acessar Youtube,200,OK,Thread Group 1-7,text,true,,399727,117,3,3,https://www.youtube.com/,246,0,143
+1593134140522,2562,Acessar Youtube,200,OK,Thread Group 1-1,text,true,,370500,117,2,2,https://www.youtube.com/,282,0,152
+1593134140522,2685,Acessar Youtube,200,OK,Thread Group 1-3,text,true,,385687,117,1,1,https://www.youtube.com/,271,0,158
