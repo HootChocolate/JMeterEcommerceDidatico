@@ -1,4 +1,4 @@
-## JMeter project test ##
+## JMeter project test made on Udemy course ##
 
 *** This were a project made for studing pourposes ***
 
